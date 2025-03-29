@@ -2,7 +2,8 @@
 
 This project implements an Adaptive Cruise Control (ACC) system using Model Predictive Control (MPC) in MATLAB and Simulink. The system simulates a vehicle (Ego Car) following a lead vehicle (Lead Car) while maintaining a safe distance based on velocity and predefined parameters.
 
-![Adaptive Cruise Control](images/AdobeStock_964843339.png)
+### Architecture
+![Lead Car Model](images/LeadCarModel.jpg)
 
 ## Project Overview
 
@@ -29,9 +30,6 @@ The Adaptive Cruise Control system automatically adjusts the Ego Car's speed to 
 
 ### Acceleration vs. Time Graph
 ![Acceleration Time Graph](images/Acceleration_Time_Graph.jpg)
-
-### Architecture
-![Lead Car Model](images/LeadCarModel.jpg)
 
 ## Project Structure
 
