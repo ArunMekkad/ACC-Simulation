@@ -35,13 +35,13 @@ The Adaptive Cruise Control system automatically adjusts the Ego Car's speed to 
 
 ## Project Structure
 
-- `code/` - Contains MATLAB script and Simulink model
+- `src/` - Contains MATLAB script and Simulink model
 - `images/` - Contains graphs and visual assets
 
 ## How to Run
 
 1. Open MATLAB (R2019b or later recommended)
-2. Navigate to the `code` directory
+2. Navigate to the `src` directory
 3. Open the `Simulink_model.slx` file
 4. Run the `ACC_Script.m` script to execute the simulation
 5. View the generated plots to analyze the system performance
