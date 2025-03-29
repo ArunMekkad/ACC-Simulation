@@ -30,7 +30,7 @@ The Adaptive Cruise Control system automatically adjusts the Ego Car's speed to 
 ### Acceleration vs. Time Graph
 ![Acceleration Time Graph](images/Acceleration_Time_Graph.jpg)
 
-### Lead Car Model
+### Architecture
 ![Lead Car Model](images/LeadCarModel.jpg)
 
 ## Project Structure
