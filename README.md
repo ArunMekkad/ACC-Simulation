@@ -62,11 +62,6 @@ The control logic implements a Model Predictive Control approach with:
 - Relative velocity compensation
 - Acceleration limits for comfort and safety
 
-## Contributors
-
-- [Your Name]
-- [Team Member Names if applicable]
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.  
